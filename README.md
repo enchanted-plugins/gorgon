@@ -296,7 +296,7 @@ Gorgon follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html). Break
 
 Pull requests welcome. Key rules:
 
-- Do not edit `shared/vis/conduct/*.md` in a Gorgon PR; raise the change in the [schematic](https://github.com/enchanter-ai/schematic) repo so it propagates to every sibling.
+- Do not edit `shared/conduct/*.md` in a Gorgon PR; raise the change in the [schematic](https://github.com/enchanter-ai/schematic) repo so it propagates to every sibling.
 - Every new engine needs an Author-Year docstring citation and a `docs/science/README.md` section.
 - Every hook script opens with the subagent-loop guard and exits 0 fail-open.
 - Honest-numbers contract on every advisory: no N, no advisory.
